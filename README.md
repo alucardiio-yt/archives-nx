@@ -55,7 +55,7 @@ Todo ya configurado para funcionar correctamente sin ajustes adicionales.
 
 ## Consideraciones
 
-* Mantener coherencia entre versiones (no mezclar archivos de otros packs)
+* Mantener coherencia entre versiones
 * Revisar compatibilidad antes de actualizar firmware
 * Usar emuMMC como entorno principal recomendado
 
