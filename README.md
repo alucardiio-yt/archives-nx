@@ -8,7 +8,7 @@ El objetivo es evitar configuraciones innecesarias y ofrecer una base sólida qu
 
 ---
 
-## Enfoque del pack
+## Propósito del Pack
 
 Este pack está pensado para usuarios que buscan una instalación directa, sin tener que armar todo desde cero ni lidiar con errores comunes por archivos desactualizados o mal configurados.
 
@@ -75,6 +75,7 @@ El pack se actualiza conforme a cambios relevantes en:
 
 Este proyecto tiene fines educativos e informativos.
 El usuario es responsable del uso que le dé al contenido.
+Recomiendo instalar este paquete con mi instalador para Windows: https://github.com/alucardiio-yt/Alucardio-Switch-Installer-Windows-
 
 ---
 
