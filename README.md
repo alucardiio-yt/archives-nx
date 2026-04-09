@@ -12,12 +12,19 @@ El objetivo es evitar configuraciones innecesarias y ofrecer una base sólida qu
 
 Este pack está pensado para usuarios que buscan una instalación directa, sin tener que armar todo desde cero ni lidiar con errores comunes por archivos desactualizados o mal configurados.
 
-Se prioriza:
+Cómo instalarlo correctamente
 
-* Compatibilidad con versiones recientes de firmware
-* Configuración limpia y funcional
-* Integración de herramientas realmente necesarias
-* Reducción de conflictos entre módulos
+* Conecta tu SD a la computadora y elimina las carpetas:
+* atmosphere
+* bootloader
+* config
+* scripts
+* boot.dat
+* boot.ini
+* exosphere.ini
+* hbmenu.nro
+* payload.bin
+* Posteriormente copias los archivos del ZIP NX.latest a la raíz de tu SD u listo
 
 ---
 
