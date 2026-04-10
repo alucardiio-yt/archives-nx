@@ -6,6 +6,8 @@ CREDITOS A TODOS LOS DESARROLLADORES DE ESTAS HERRAMIENTAS.
 
 El objetivo es evitar configuraciones innecesarias y ofrecer una base sólida que funcione correctamente desde el primer arranque.
 
+¿Valoras mi Trabajo? Suscríbete al Patreon y obtén toda la biblioteca de NS sin anuncios, sin ads, todo listo para descargar: https://www.patreon.com/alucardio
+
 ---
 
 ## Propósito del Pack e Instalación
