@@ -24,7 +24,7 @@ Cómo instalarlo correctamente
 * exosphere.ini
 * hbmenu.nro
 * payload.bin
-* Posteriormente copias los archivos del ZIP NX.latest a la raíz de tu SD u listo
+* Posteriormente copias los archivos del ZIP NX.latest a la raíz de tu SD y listo
 * Recomiendo instalar este paquete con mi instalador para Windows: https://github.com/alucardiio-yt/Alucardio-Switch-Installer-Windows-
 
 ---
