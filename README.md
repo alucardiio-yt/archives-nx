@@ -25,6 +25,7 @@ Cómo instalarlo correctamente
 * hbmenu.nro
 * payload.bin
 * Posteriormente copias los archivos del ZIP NX.latest a la raíz de tu SD u listo
+* Recomiendo instalar este paquete con mi instalador para Windows: https://github.com/alucardiio-yt/Alucardio-Switch-Installer-Windows-
 
 ---
 
@@ -82,7 +83,7 @@ El pack se actualiza conforme a cambios relevantes en:
 
 Este proyecto tiene fines educativos e informativos.
 El usuario es responsable del uso que le dé al contenido.
-Recomiendo instalar este paquete con mi instalador para Windows: https://github.com/alucardiio-yt/Alucardio-Switch-Installer-Windows-
+
 
 ---
 
