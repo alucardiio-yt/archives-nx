@@ -8,7 +8,7 @@ El objetivo es evitar configuraciones innecesarias y ofrecer una base sólida qu
 
 ---
 
-## Propósito del Pack
+## Propósito del Pack e Instalación
 
 Este pack está pensado para usuarios que buscan una instalación directa, sin tener que armar todo desde cero ni lidiar con errores comunes por archivos desactualizados o mal configurados.
 
