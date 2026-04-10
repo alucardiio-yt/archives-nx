@@ -52,17 +52,6 @@ Todo ya configurado para funcionar correctamente sin ajustes adicionales.
 
 ---
 
-## Instalación
-
-1. Inserta la microSD en tu PC
-2. Realiza respaldo de archivos importantes
-3. Elimina carpetas antiguas relacionadas con el CFW (atmosphere, bootloader, etc.)
-4. Copia el contenido del pack en la raíz de la microSD
-5. Inserta la microSD en la consola
-6. Inicia mediante Hekate (RCM o chip)
-
----
-
 ## Consideraciones
 
 * Mantener coherencia entre versiones
