@@ -1,6 +1,8 @@
 # archives-nx
 
-ULTIMA ACTUALIZACIÓN 22.5.0 AMS 1.11.2
+ULTIMA ACTUALIZACIÓN 22.5.0 AMS 1.11.2.
+
+
 Este repositorio contiene el **Pack CFW**, una compilación optimizada y lista para usar que simplifica la configuración de Nintendo Switch con CFW, manteniendo un enfoque en estabilidad, compatibilidad y facilidad de uso.
 
 CREDITOS A TODOS LOS DESARROLLADORES DE ESTAS HERRAMIENTAS.
