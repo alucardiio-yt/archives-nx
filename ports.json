@@ -1,1 +1,14 @@
-
+{
+  "Sonic Mania": {
+    "url": "https://github.com/alucardiio-yt/archives-nx/releases/download/ports/sonic-mania.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sonic-mania.png"
+  },
+  "Super Mario 64": {
+    "url": "https://github.com/alucardiio-yt/archives-nx/releases/download/ports/super-mario-64.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/super-mario-64.png"
+  },
+  "OpenTyrian": {
+    "url": "https://github.com/alucardiio-yt/archives-nx/releases/download/ports/opentyrian.nro",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/opentyrian.png"
+  }
+}
