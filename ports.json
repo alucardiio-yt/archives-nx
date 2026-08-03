@@ -1,14 +1,38 @@
 {
-  "Sonic Mania": {
-    "url": "https://github.com/alucardiio-yt/archives-nx/releases/download/ports/sonic-mania.zip",
-    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sonic-mania.png"
+  "Castlevania: Symphony of the Night": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sotn.png"
   },
-  "Super Mario 64": {
-    "url": "https://github.com/alucardiio-yt/archives-nx/releases/download/ports/super-mario-64.zip",
-    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/super-mario-64.png"
+  "Driver 2": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/d2.png"
   },
-  "OpenTyrian": {
-    "url": "https://github.com/alucardiio-yt/archives-nx/releases/download/ports/opentyrian.nro",
-    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/opentyrian.png"
+  "Grand Theft Auto: Chinatown Wars": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4CTW.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gtacw.png"
+  },
+  "Grand Theft Auto: Liberty City Stories": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4LCS.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gtalcs.png"
+  },
+  "Silent Hill": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/SH.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png"
+  },
+  "The Simpsons: Hit And Run": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/simp.png"
+  },
+  "TLOZ: Twilight Princess": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldatp.png"
+  },
+  "TLOZ: Majoras Mask": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldamm.png"
+  },
+  "TLOZ: Ocarina of Time": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4CTW.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldaott.png"
   }
 }
