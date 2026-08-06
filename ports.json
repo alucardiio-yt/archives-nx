@@ -3,6 +3,14 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sotn.png"
   },
+  "Super Mario World Remastered": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smw.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smw.png"
+  },
+  "Super Mario Bros Remastered": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smbr.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smbx.png"
+  },
   "Driver 2": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/d2.png"
