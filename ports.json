@@ -27,6 +27,30 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/SH.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png"
   },
+  "Animal Crossing: Pocket Camp": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/acpc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/acpc.png"
+  },
+  "After Burner Climax": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/abc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/abc.png"
+  },
+  "Angry Birds 1": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ang1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ang1.png"
+  },
+  "Angry Birds 2": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ang2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ang2.png"
+  },
+  "Castle of Illusion": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/coi.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/coi.png"
+  },
+  "Bad Piggies": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/bp.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bp.png"
+  },
   "The Simpsons: Hit And Run": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/simp.png"
