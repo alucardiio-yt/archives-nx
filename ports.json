@@ -15,6 +15,14 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/d2.png"
   },
+  "Geometry Dash": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gdash.png"
+  },
+  "Hitman Go": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/hitmango.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/hitmango.png"
+  },
   "Grand Theft Auto: Chinatown Wars": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4CTW.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gtacw.png"
