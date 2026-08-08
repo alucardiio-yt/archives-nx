@@ -35,6 +35,38 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/abc.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/abc.png"
   },
+  "Crazy Taxi": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/crt.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/crt.png"
+  },
+  "Celeste 64": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/cel.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cel.png"
+  },
+  "Dr. Mario Mania": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/drm.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/drm.png"
+  },
+  "Final Fantasy III: 3D Remake": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff3d.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ff3d.png"
+  },
+  "Final Fantasy: Dimensions": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffd.png"
+  },
+  "Final Fantasy: Dimensions II": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffd2.png"
+  },
+  "Final Fantasy IV: 3D Remake": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4d.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ff4d.png"
+  },
+  "Final Fantasy IV: The After Years": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4tay.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ff4tay.png"
+  },
   "Angry Birds 1": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ang1.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ang1.png"
