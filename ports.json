@@ -23,6 +23,10 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/hitmango.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/hitmango.png"
   },
+  "Bully": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bull.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bull.png"
+  },
   "Grand Theft Auto: San Andreas": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/g54.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/g54.png"
