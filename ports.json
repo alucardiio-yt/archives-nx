@@ -19,6 +19,10 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gdash.png"
   },
+  "Banjo Kazooie": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/banjk.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/banjk.png"
+  },
   "Hitman Go": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/hitmango.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/hitmango.png"
