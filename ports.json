@@ -91,6 +91,10 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ang1.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ang1.png"
   },
+  "Angry Birds Journey": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/angjo.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/angjo.png"
+  },
   "Angry Birds 2": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/agn2.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ang2.png"
