@@ -19,6 +19,10 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sotn.png"
   },
+  "Super Mario Strikers": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/skrs.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/skrs.png"
+  },
   "Super Mario World Remastered": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smw.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smw.png"
