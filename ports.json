@@ -15,6 +15,10 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp2.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfsmw-nx.png"
   },
+  "TLOZ: Wind Waker": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/wkr.jpg"
+  },
   "Castlevania: Symphony of the Night": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sotn.png"
