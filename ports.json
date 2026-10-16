@@ -3,6 +3,10 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png"
   },
+  "Need For Speed: Carbon": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfsc.png"
+  },
   "Need For Speed: Underground 2": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfu2.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfu2.png"
@@ -75,10 +79,6 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4LCS.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gtalcs.png"
   },
-  "Silent Hill": {
-    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/SH.zip",
-    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png"
-  },
   "Animal Crossing: Pocket Camp": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/acpc.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/acpc.png"
@@ -142,6 +142,22 @@
   "The Simpsons: Hit And Run": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/simp.png"
+  },
+  "Silent Hill 2: Enhanced Edition (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh21.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png"
+  },
+  "Silent Hill 2: Enhanced Edition (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png"
+  },
+  "Silent Hill 2: Enhanced Edition (PARTE 3)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png"
+  },
+  "Silent Hill 1": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/SH.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png"
   },
   "TLOZ: Twilight Princess": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip",
