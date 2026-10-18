@@ -43,6 +43,10 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dfj.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dfj.png"
   },
+  "PES 2021": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pes21.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/pes21.jpg"
+  },
   "Driver 2": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/d2.png"
