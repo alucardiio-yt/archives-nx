@@ -71,13 +71,13 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smash.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smash.png"
   },
+  "FlatOut 2": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/flat.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/flat.png"
+  },
   "Geometry Dash": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gdash.png"
-  },
-  "Banjo Kazooie": {
-    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/banjk.zip",
-    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/banjk.png"
   },
   "Hitman Go": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/hitmango.zip",
