@@ -67,6 +67,10 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/hce.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/hce.png"
   },
+  "Super Smash Bros 64": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smash.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smash.png"
+  },
   "Geometry Dash": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gdash.png"
