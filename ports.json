@@ -55,6 +55,10 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mk64.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mk64.png"
   },
+  "Jackie Chan Stuntmaster": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jack.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/jack.png"
+  },
   "Geometry Dash": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gdash.png"
