@@ -163,6 +163,14 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/simp.png"
   },
+  "Left 4 Dead (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d11.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/l4d.png"
+  },
+  "Left 4 Dead (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d12.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/l4d.png"
+  },
   "Call of Duty 4: Modern Warfare (PARTE 1)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw41.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cwm.png"
