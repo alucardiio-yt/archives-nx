@@ -143,6 +143,18 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff3d.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ff3d.png"
   },
+  "TLOZ: Twilight Princess": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldatp.png"
+  },
+  "TLOZ: Majoras Mask": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldamm.png"
+  },
+  "TLOZ: Ocarina of Time": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/soh.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldaott.png"
+  },
   "Final Fantasy: Dimensions": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffd.png"
@@ -238,17 +250,5 @@
   "Silent Hill 1": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/SH.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png"
-  },
-  "TLOZ: Twilight Princess": {
-    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip",
-    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldatp.png"
-  },
-  "TLOZ: Majoras Mask": {
-    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip",
-    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldamm.png"
-  },
-  "TLOZ: Ocarina of Time": {
-    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/soh.zip",
-    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldaott.png"
   }
 }
