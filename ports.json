@@ -27,6 +27,10 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/wwh.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/wwh.png"
   },
+  "Black": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bl4ck.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bl4ck.png"
+  },
   "Castlevania: Symphony of the Night": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sotn.png"
