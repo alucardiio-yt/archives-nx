@@ -3,6 +3,10 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png"
   },
+  "Mortal Kombat: Shaolin Monks": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mksh.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mksh.png"
+  },
   "Need For Speed: Carbon": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsc.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfsc.png"
@@ -62,6 +66,10 @@
   "Driver 2": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/d2.png"
+  },
+  "Mario Kart Double Dash": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mkdd.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mkdd.png"
   },
   "Mario Kart 64": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mk64.zip",
