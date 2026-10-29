@@ -23,6 +23,10 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp2.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfsmw-nx.png"
   },
+  "Fifa Street": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ffs.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffs.png"
+  },
   "TLOZ: Wind Waker (GAMECUBE)": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/wkr.jpg"
