@@ -11,7 +11,7 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsc.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfsc.png"
   },
-  "Need For Speed: High Stakes": {
+  "Need For Speed 4: High Stakes": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshs.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfshs.png"
   },
@@ -50,6 +50,10 @@
   "Resident Evil 2 (CLAIRE)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re22.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/re22.png"
+  },
+  "Resident Evil 3 NEMESIS": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re3.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/re3.png"
   },
   "Tekken 3": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tek3.zip",
