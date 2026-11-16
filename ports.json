@@ -19,6 +19,10 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mts.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mts.png"
   },
+  "GoldenEye 007": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/golden.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/golden.png"
+  },
   "Mortal Kombat: Shaolin Monks": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mksh.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mksh.png"
@@ -50,6 +54,10 @@
   "Need For Speed: Most Wanted (PARTE 2)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp2.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfsmw-nx.png"
+  },
+  "Dragon Ball: Budokai Tenkaichi 3": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/db3.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/db3.png"
   },
   "Bloody Roar Extreme": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blodext.zip",
