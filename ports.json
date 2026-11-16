@@ -3,6 +3,10 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png"
   },
+  "The King of Fighters 2002: Ultimate Match": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/kof2.png"
+  },
   "Manhunt 1": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/manh.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/manh.png"
@@ -83,6 +87,10 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ffs.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffs.png"
   },
+  "TLOZ: Ocarina of Time (3DS)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/zoot.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zoot.png"
+  },
   "TLOZ: Wind Waker (GAMECUBE)": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/wkr.jpg"
@@ -138,6 +146,10 @@
   "Super Mario Strikers": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/skrs.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/skrs.png"
+  },
+  "Mario Party 4": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mp4.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mp4.png"
   },
   "Burnout 3: Takedown": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/b3x.zip",
