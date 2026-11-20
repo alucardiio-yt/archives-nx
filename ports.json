@@ -23,6 +23,14 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mts.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mts.png"
   },
+  "Metroid Fusion": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metfu.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/metfu.png"
+  },
+  "Metroid: Zero Mission": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metze.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/metze.png"
+  },
   "GoldenEye 007": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/golden.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/golden.png"
