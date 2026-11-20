@@ -287,6 +287,10 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/crt.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/crt.png"
   },
+  "Crazy Taxi (Dreamcast)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/crazyd.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/crazyd.png"
+  },
   "Celeste 64": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/cel.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cel.png"
