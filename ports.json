@@ -491,6 +491,18 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf23.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tf2.png"
   },
+  "Silent Hill: Homecoming": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shome.png"
+  },
+  "Silent Hill: Downpour (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png"
+  },
+  "Silent Hill: Downpour (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png"
+  },
   "Silent Hill 3 (PARTE 1)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh3.png"
@@ -510,14 +522,6 @@
   "Silent Hill 2: Enhanced Edition (PARTE 3)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png"
-  },
-  "Silent Hill: Downpour (PARTE 1)": {
-    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip",
-    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png"
-  },
-  "Silent Hill: Downpour (PARTE 2)": {
-    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip",
-    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png"
   },
   "Silent Hill 1 (Actualizado)": {
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sh1.zip",
