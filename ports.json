@@ -187,6 +187,10 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sotn.png"
   },
+  "Soul Calibur 2": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/soulc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/soulc.png"
+  },
   "Luigi's Mansion": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/luigi.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/luigi.png"
