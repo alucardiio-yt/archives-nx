@@ -533,6 +533,12 @@
       "es": "Al principio puede haber pausas al cargar zonas, aproximadamente cada 10 segundos. Tras jugar unos 30 minutos, reinicia la consola; la carga debería mejorar. Historia de terror psicológico en la que James Sunderland visita Silent Hill tras recibir una carta de su esposa. Explora el pueblo, resuelve puzles y enfrenta sus recuerdos."
     }
   },
+  "Silent Hill: Homecoming": {
+    "author": "Gerisson1996",
+    "description": {
+      "es": "Puedes activar los subtitulos en las opciones del juego. Puede ocupar OVERCLOCK para mejorar rendimiento. El protagonista es Alex Shepherd, un veterano de guerra que regresa a su pueblo natal, Shepherd's Glen, tras ser dado de baja del ejército. Al llegar, encuentra el pueblo sumido en el caos, su hermano menor Sam desaparecido y su padre en estado de coma."
+    }
+  },
   "Silent Hill: Downpour": {
     "author": "Fungalspores",
     "description": {
